@@ -1,3 +1,13 @@
+"""
+Patetrn
+
+* 
+* * 
+* * * 
+* * * *
+n = 4
+
+"""
 print("Enter the number of rows")
 n=int(input())
 

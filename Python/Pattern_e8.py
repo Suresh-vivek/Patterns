@@ -1,26 +1,27 @@
 """
 Patetrn
 
-4 3 2 1
-4 3 2
-4 3
-4
+1
+1 0
+1 0 1 
+1 0 1 0 
+1 0 1 0 1
 
-n = 4
+n = 5
 
 """
-
 print("Enter the number of rows")
 n=int(input())
 
 print("Here is the pattern")
 
-i=n
-while i>=1:
-    k=n
-    for j in range(1,i+1):
-        print(k,end=" ")
+
+for i in range(1,n+1):
+    j=1
+    while j<=i:
+        print(j%2,end=" ")
         j+=1
-        k-=1
+
     print("\n")
-    i-=1
+
+    
