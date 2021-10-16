@@ -7,7 +7,7 @@ If you like my work ⭐ this repo, **Share** it within your groups...
 
 ## Contribute
 1. Make a **PR**
-2. Add your solution to the respective folder(**Python or C++**)
+2. Add your solution to the respective folder(**Python or java**)
 
 Note:- Solution should contain Pattern in the form of **Comments**
 
