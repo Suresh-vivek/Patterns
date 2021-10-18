@@ -18,7 +18,10 @@ for i in range(1,n+1):
     while k>=i:
         print(" ",end=" ")
         k-=1
+
+        l=i
     for j in range(1,i+1):
-        print(j,end=" ")
+        print(l,end=" ")
+        l-=1
     
     print("\n")
