@@ -12,7 +12,7 @@ n = 6
 
 
 """
-# for this figure n should be even and minimum value should be 6
+# for this figure n should be even and minimum value should be 4
 
 print("Enter the number of rows")
 n=int(input())
